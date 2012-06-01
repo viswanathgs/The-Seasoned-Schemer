@@ -2,7 +2,7 @@
 ; Code snippets from "The Seasoned Schemer", by
 ; Daniel P. Friedman and Matthias Felleisen 
 ; 
-; ((Chapter 17) We Change, Therefore We Are)
+; ((Chapter 17) We Change, Therefore We Are!)
 ;
 ; Viswanath Sivakumar, aka viswanathgs <viswanathgs@gmail.com>
 ;
