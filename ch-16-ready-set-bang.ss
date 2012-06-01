@@ -2,7 +2,7 @@
 ; Code snippets from "The Seasoned Schemer", by
 ; Daniel P. Friedman and Matthias Felleisen 
 ; 
-; ((Chapter 15) The Difference Between Men and Boys...)
+; ((Chapter 16) Ready, Set, Bang!)
 ;
 ; Viswanath Sivakumar, aka viswanathgs <viswanathgs@gmail.com>
 ;
