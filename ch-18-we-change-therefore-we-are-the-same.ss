@@ -222,9 +222,9 @@
            (letrec
                ((C (lambda (p q)
                      (cond
-                       ((same? p q) (infinite #f))
                        ((null? q) 0)
                        ((null? (kdr q)) 1)
+                       ((same? p q) (infinite #f))
                        (else
                         (+ 2 (C (slow p) (quick q)))))))
                 (slow (lambda (x) (kdr x)))
